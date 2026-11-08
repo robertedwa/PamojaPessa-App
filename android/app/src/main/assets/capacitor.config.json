@@ -1,0 +1,8 @@
+{
+	"appId": "com.pamojapesa.app",
+	"appName": "PamojaPesa",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
